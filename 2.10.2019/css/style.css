@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+ 
+    top: 0;
+    left: 0;
+    right: 0;
+background: yellow}
+.logo span{
+    font-weight: 700;
+    font-size: 1.125rem;
+    transition: .3s ease-in-out;
+    
+}
+.logo span:hover{
+    color:#0087AB;
+    cursor: pointer;
+}
+.minimetn li {
+padding: 15px;
+font-size: 15px;
+
+}
+.minimetn li a{
+    text-decoration: none;
+}
+/* header end */
+
+
